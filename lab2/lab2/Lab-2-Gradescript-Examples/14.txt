@@ -1,0 +1,5 @@
+snap
+devpan
+c19
+arm4
+
